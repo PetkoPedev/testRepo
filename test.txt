@@ -7,3 +7,5 @@ Made some changes from GitHub! (this is the correct way!)
 
 dev branch has new stuff here
 more changes from master branch
+
+more dev stuff here
