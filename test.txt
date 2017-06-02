@@ -3,3 +3,4 @@ This is test 1.
 Made some changes.
 
 I made some conflicting changes.
+Made some changes from GitHub! (this is the correct way!)
