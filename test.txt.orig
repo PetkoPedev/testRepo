@@ -1,8 +1,9 @@
 This is test 1.
 
+<<<<<<< HEAD
 Made some changes.
 
 I made some conflicting changes.
+=======
 Made some changes from GitHub! (this is the correct way!)
-
-dev branch has new stuff here
+>>>>>>> b009f4be8e2bed2b3348204a00b503adf7f0d876
